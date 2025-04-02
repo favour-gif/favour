@@ -1,0 +1,7 @@
+[
+    {"activity": "Watching YouTube", "category": "leisure", "duration": 45},
+    {"activity": "Reading", "category": "productive", "duration": 30},
+    {"activity": "Playing Video Games", "category": "leisure", "duration": 60},
+    {"activity": "Studying", "category": "productive", "duration": 90},
+    {"activity": "Browsing Social Media", "category": "leisure", "duration": 25}
+]
